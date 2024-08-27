@@ -1,6 +1,6 @@
 # presign
 
-A simple script around boto3 the output's pre-signed AWS requests for any service.
+A simple script around boto3 that prints pre-signed AWS requests for any service.
 
 ## Examples
 
